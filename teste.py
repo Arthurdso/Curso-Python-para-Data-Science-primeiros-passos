@@ -12,6 +12,7 @@
 
 # idade = 10;
 
+# FUNCAO COM PARAMETROS
 # def verifica_se_pode_dirigir(idade):
 #     if idade >=18:
 #         print('Tem Permissao para dirigir')
@@ -20,6 +21,7 @@
         
 # verifica_se_pode_dirigir(idade)
 
+# Função sem parametros
 def verifica_se_pode_dirigir_sem_parametro():
     idade = int(input('Qual sua idade ? '))
     if idade >= 18:
